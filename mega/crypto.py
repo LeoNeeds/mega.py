@@ -1,4 +1,4 @@
-from Crypto.Cipher import AES
+from pycrypto.Cipher import AES, ARC4
 import json
 import base64
 import struct
